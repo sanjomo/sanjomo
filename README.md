@@ -100,9 +100,8 @@ I'm always interested in discussions about:
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjomo&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sanjmo)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjomo&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=sanjomo&theme=tokyonight)
