@@ -100,7 +100,7 @@ I'm always interested in discussions about:
 
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sanjmo)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sanjomo)](https://github.com/stats-organization/github-stats-extended)
 
 
 ## 🏆 GitHub Trophies
